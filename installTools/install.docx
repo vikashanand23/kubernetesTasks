@@ -1,0 +1,2 @@
+#command to install kubernetes
+snap install kubectl --classic
